@@ -1,0 +1,3 @@
+Manzana, 5, 1.0
+Huevos, 20, 2.0
+Leche, 2, 3.0
